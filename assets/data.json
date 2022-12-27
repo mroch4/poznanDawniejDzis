@@ -1,7 +1,7 @@
 [
   {
-    "id": 28,
-    "dsc": "",
+    "id": 30,
+    "dsc": "Gmach Teatru Miejskiego w Poznaniu został wzniesiony w latach 1909-1910. Wcześniej jego funkcję pełnił budynek Arkadii, położony tuż przy placu Wolności. Fasadę nowego teatru stanowi portyk wzniesiony zgodnie z regułami architektury klasycznej starożytnego Rzymu. Siedemnaście stopni prowadzących do wejścia ograniczają po obu stronach rzeźby: po lewej jest to rzeźba kobiety na lwie (symbolizująca Lirykę), po prawej jest to mężczyzna z idącą przy nim panterą (przedstawiający Dramat). Na szczycie schodów wznosi się sześć monumentalnych, jońskich kolumn, dźwigających trójkątny tympanon zwieńczony symbolem budynku – pegazem.",
     "dt1": "ok. 1945 roku",
     "dt2": "2022/04/23",
     "lat": 52.409907,
@@ -10,66 +10,89 @@
     "tags": [
       "dzielnica cesarska",
       "opera",
-      "teatr wielki",
       "zniszczenia wojenne"
     ]
   },
   {
-    "id": 27,
-    "dsc": "",
-    "dt1": "ok. 1945 roku",
-    "dt2": "2022/04/23",
-    "lat": 52.410426,
-    "lon": 16.913759,
-    "name": "Kamienica narożna przy Teatralce",
+    "id": 29,
+    "dsc": "Największy browar w Poznaniu, należący do rodziny Huggerów, zbudowano na działce ograniczonej cmentarzem ewangelickim od północy (dziś park przy Starym Browarze) i  dzisiejszymi ulicami: Półwiejską (od wschodu), Kościuszki (od południa) i Ratajczaka (od zachodu). Jego zabudowania były typowym przykładem ówczesnej architektury przemysłowej, określanej w Prusach jako Rundbogenstil. Monumentalny charakter zakładu potęgowało dodatkowo jego położenie - browar wzniesiony został na skarpie wzmocnionej ceglanym murem oporowym. Na przełomie XX i XIX wieku, podupadające zakłady doczekały się rewitalizacji. Po przebudowie browar zyskał nową funkcjonalność - obecnie w jego miejscu znajduje się galeria handlowa Stary Browar.",
+    "dt1": "lata 30' XX wieku",
+    "dt2": "2022/12/17",
+    "lat": 52.401957,
+    "lon": 16.924639,
+    "name": "Browar Huggerów",
     "tags": [
-      "jeżyce",
-      "kamienica",
-      "most teatralny"
+      "stary browar"
     ]
   },
   {
-    "id": 26,
-    "dsc": "",
+    "id": 28,
+    "dsc": "Na przełomie XIX i XX wieku, na niewielkiej działce o kształcie trójkąta, znajdującej się w klinie na zbiegu ulic Krysiewicza i Ogrodowej wybudowano neorenesansowa kamienicę przypominającą nowojorski Flatiron Building. Zniszczenia wojenne pozbawiły budynek charakterystycznej wieżyczki. W takiej formie gmach przetrwał do początków XXI wieku, kiedy to podczas rozbiórki sąsiedniej kamienicy, naruszono konstrukcję „Żelazka”, co ostatecznie doprowadziło do podjęcia decyzji o jego rozbiórce w 2011 roku. W latach 2017-2019 miała miejsce odbudowa kamienicy. Co ciekawe, elewację budynku odtworzono przy użyciu tradycyjnych metod i materiałów zgodnych z oryginalnymi.",
+    "dt1": "początek XX wieku",
+    "dt2": "2022/12/17",
+    "lat": 52.403560,
+    "lon": 16.928615,
+    "name": "Kamienica Żelazko",
+    "tags": [
+      "kamienica"
+    ]
+  },
+  {
+    "id": 27,
+    "dsc": "Niewielu wie, że w Poznaniu, w czasach zaborów, znajdował się plac Świętego Piotra. Jego nazwa pochodziła do ewangelickiego kościoła pod wezwaniem św. Piotra (Petrikirche), usytuowanego u wylotu dzisiejszej ulicy Półwiejskiej. Budowę świątyni w tym miejscu zakończono w 1841 roku, sam zaś projekt nawiązywał do gmachu kościoła w Straupitz. Polska społeczność określała budynek żartobliwie jako „księże portki” albo „portki księdza”. Tuż po wojnie świątynia została zburzona - zresztą podobny los w późniejszym czasie spotkał większość okolicznych zabudowań. Sam plac przetrwał do dziś i nosi nazwę placu Wiosny Ludów. ",
     "dt1": "początek XX wieku",
     "dt2": "2022/04/23",
     "lat": 52.405342,
     "lon": 16.931404,
-    "name": "Plac Świętokrzyski",
+    "name": "Plac Świętego Piotra",
     "tags": [
       "obiekty sakralne",
       "plac"
     ]
   },
   {
-    "id": 25,
-    "dsc": "",
+    "id": 26,
+    "dsc": "Widoczny na pierwszym planie historycznego zdjęcia łuk to element łącznika pomiędzy starym, renesansowym ratuszem, a nie istniejącym już budynkiem Nowego Ratusza. Rozwój miasta, który miał miejsce w drugiej połowie XIX wieku, spowodował nasilające się problemy lokalowe poznańskiego magistratu. W 1884 roku podjęto uchwałę o budowie nowego ratusza, który sprostałby potrzebom urzędników. Podczas wyboru projektu władze pruskie dążyły do podkreślenia niemieckości Poznania poprzez stosowanie się do założeń Kulturkampfu. Neorenesansowy budynek oddano do użytku w 1895 roku. Podczas wojny został zniszczony w stopniu umożliwiającym odbudowę, jednak z uwagi na niechęć poznaniaków do pruskiego akcentu na renesansowym rynku, pomysłu zaniechano. Obecnie, w miejscu, w którym przez 50 lat stał Nowy Ratusz, znajduje się odbudowany gmach wagi miejskiej.",
     "dt1": "początek XX wieku",
     "dt2": "2016/06/07",
     "lat": 52.408515,
     "lon": 16.933650,
-    "name": "Nowy Ratusz",
+    "name": "Łącznik ratusza",
     "tags": [
       "ratusz",
       "stary rynek"
     ]
   },
   {
-    "id": 24,
+    "id": 25,
     "dsc": "",
     "dt1": "koniec XIX wieku",
     "dt2": "2016/06/07",
     "lat": 52.411565,
     "lon": 16.951452,
-    "name": "Śródka Most",
+    "name": "Most Biskupa Jordana",
+    "tags": [
+      "ostrów tumski",
+      "most",
+      "śródka"
+    ]
+  },
+  {
+    "id": 24,
+    "dsc": "Ostrówek to nazwa miasteczka położonego na maleńkiej wyspie w rozwidleniu Cybiny. Prawa miejskie Ostrówek uzyskał w 1444 roku z rąk Władysława Warneńczyka i przez długi czas dzierżył tytuł najmniejszego miasta Korony Polskiej. O jego (niedużej) wielkości dobitnie świadczy fakt, że miasteczko posiadało tylko jedną ulicę. Kameralne miasteczko utraciło prawa miejskie w 1800 roku, kiedy to razem ze Śródką zostało włączony w granice Poznania. Na przełomie XIX i XX wieku, po obu stronach ulicy prowadzącej przez most na Ostrów Tumski wyrosły kamienice czynszowe, samą zaś ulicą przez pewien czas kursowały tramwaje konne. Niestety dziś, po dawnej mieścinie nie ma już śladu.   ",
+    "dt1": "koniec XIX wieku",
+    "dt2": "2022/12/04",
+    "lat": 52.411263,
+    "lon": 16.953056,
+    "name": "Ulica Ostrówek",
     "tags": [
       "śródka",
-      "most"
+      "ulica"
     ]
   },
   {
     "id": 23,
-    "dsc": "",
+    "dsc": "Znajdująca się na Śródce ulica Cybińska jest jedną z najkrótszych ulic w Poznaniu. Współczesne zdjęcie obejmuje nieco ponad połowę jej biegu (łącznie ok. 70 metrów). W przeszłości ulica ta była znacznie dłuższa i prowadziła prosto na rynek Śródecki. Skrócenie podyktowane było wybudowaniem ronda Śródka oraz odchodzącej z niego w kierunku zachodnim Trasy Chwaliszewskiej.",
     "dt1": "koniec XIX wieku",
     "dt2": "2022/12/04",
     "lat": 52.411086,
@@ -83,18 +106,19 @@
   {
     "id": 22,
     "dsc": "",
-    "dt1": "koniec XIX wieku",
-    "dt2": "2022/12/04",
-    "lat": 52.411263,
-    "lon": 16.953056,
-    "name": "Śródka",
+    "dt1": "ok. 1945 roku",
+    "dt2": "2022/04/23",
+    "lat": 52.410426,
+    "lon": 16.913759,
+    "name": "Kamienica narożna Dąbrowskiego 1",
     "tags": [
-      "śródka"
+      "jeżyce",
+      "kamienica"
     ]
   },
   {
     "id": 21,
-    "dsc": "",
+    "dsc": "Niewielka dzielnica Poznania o nazwie Szeląg oddziela Winogrady od brzegów Warty. Swoją nazwę zawdzięcza burmistrzowi miasta - Mikołajowi Schilingowi, który w XVI wieku wybudował na miejscu istniejącego tutaj wówczas folwarku fabrykę prochu. Wraz z upływem czasu okolica stopniowo traciła swój przemysłowo-rolniczy charakter i zaczęła zyskiwać walory rekreacyjne. Tuż po wybudowaniu Fortu Winiary (pierwsza połowa XIX wieku), w klinie oddzielającym go od Warty, powstał park, a prowadzona tutaj restauracja “Szeląg” szybko stała się popularnym celem niedzielnych spacerów mieszkańców Poznania. W czasie swojej świetności mogła pomieścić na swoich tarasach nawet 5000 klientów! W 1922 roku na Szeląg swoją siedzibę przeniosło Bractwo Kurkowe Strzeleckie, jednocześnie wchodząc w posiadanie restauracji oraz ogrodu. Urządzona tutaj strzelnica posiadała 37 krytych stanowisk i była przez pewien czas największym tego typu obiektem w Polsce, sam park zaś zaczęto nazywać Strzeleckim. Niestety, po wojnie okolica nie odzyskała już dawnej świetności. Co ciekawe, to właśnie na terenie obecnego Szeląga odnaleziono najstarsze (sprzed 10 000 lat) ślady pobytu człowieka na obszarze dzisiejszego Poznania (wyroby krzemienne, ceramika).",
     "dt1": "lata 30' XX wieku",
     "dt2": "2022/04/23",
     "lat": 52.425657,
@@ -102,8 +126,7 @@
     "name": "Park Szelągowski",
     "tags": [
       "park",
-      "szeląg",
-      "wilczak"
+      "szeląg"
     ]
   },
   {
@@ -248,8 +271,6 @@
     "name": "Kościół Bernardynów",
     "tags": [
       "obiekty sakralne",
-      "plac",
-      "plac bernardyński",
       "zniszczenia wojenne"
     ]
   },
@@ -274,8 +295,7 @@
     "lon": 16.936,
     "name": "Plac Kolegiacki",
     "tags": [
-      "plac",
-      "plac kolegiacki"
+      "plac"
     ]
   },
   {
@@ -315,21 +335,20 @@
     "name": "Ulica Żydowska",
     "tags": [
       "stary rynek",
+      "kamienica",
       "ulica",
       "zniszczenia wojenne"
     ]
   },
   {
     "id": 4,
-    "dsc": "Proces budowy mostu Cybińskiego należał do najbardziej spektakularnych przedsięwzięć inwestycyjnych ostatnich lat. Przęsło starego mostu Rocha, które złożone było nad kanałem ulgi, trzeba było przetransportować kilometr na północ oraz przemieścić NAD mostem Mieszka I. Ważące 450 ton przęsło należało podnieść na wysokość 9 m, przetoczyć po moście Mieszka I oraz znowu opuścić na poziom gruntu. Kulminacyjny moment przetaczania stalowego przęsła po moście 29 września 2007 oglądały setki poznaniaków.",
+    "dsc": "Proces odbudowy mostu Cybińskiego należał do najbardziej spektakularnych przedsięwzięć inwestycyjnych ostatnich lat. Przęsło starego mostu Rocha, które złożone było nad kanałem ulgi, trzeba było przetransportować kilometr na północ oraz przemieścić nad mostem Mieszka I. Ważące 450 ton przęsło należało podnieść na wysokość 9 m, przetoczyć po moście Mieszka I oraz znowu opuścić na poziom gruntu. Kulminacyjny moment przetaczania stalowego przęsła po moście 29 września 2007 oglądały setki poznaniaków.",
     "dt1": "ok. 1945 roku",
     "dt2": "2016/06/07",
     "lat": 52.411917,
     "lon": 16.951611,
     "name": "Most Biskupa Jordana",
     "tags": [
-      "katedra",
-      "obiekty sakralne",
       "ostrów tumski",
       "most",
       "śródka",
