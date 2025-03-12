@@ -6,8 +6,8 @@
       "b": 16.9345
     },
     "c": {
-      "a": "2016-06-08",
-      "b": "23/08/1965"
+      "a": "23/08/1965",
+      "b": "19-08-24T07:03"
     },
     "d": ["winogrady"],
     "e": "Zdjęcie lotnicze Winograd"
@@ -19,8 +19,8 @@
       "b": 16.940583
     },
     "c": {
-      "a": "2016-06-08",
-      "b": "lata 80' XX wieku"
+      "a": "lata 80. XX wieku",
+      "b": "16-06-08T13:15"
     },
     "d": ["osiedle", "prl", "winogrady"],
     "e": "Osiedle Kosmonautów"
@@ -32,8 +32,8 @@
       "b": 16.940056
     },
     "c": {
-      "a": "2016-06-08",
-      "b": "lata 80' XX wieku"
+      "a": "lata 80. XX wieku",
+      "b": "16-06-08T12:48"
     },
     "d": ["park", "prl", "winogrady"],
     "e": "Park Gagarina"
@@ -45,8 +45,8 @@
       "b": 16.951611
     },
     "c": {
-      "a": "2016-06-07",
-      "b": "ok. 1945 roku"
+      "a": "ok. 1945 roku",
+      "b": "16-06-07T08:54"
     },
     "d": ["ostrów tumski", "most", "śródka", "zniszczenia wojenne"],
     "e": "Most Biskupa Jordana"
@@ -58,8 +58,8 @@
       "b": 16.935631
     },
     "c": {
-      "a": "2019-01-19",
-      "b": "ok. 1945 roku"
+      "a": "ok. 1945 roku",
+      "b": "19-01-19T12:44"
     },
     "d": ["stary rynek", "kamienica", "ulica", "zniszczenia wojenne"],
     "e": "Ulica Żydowska"
@@ -71,8 +71,8 @@
       "b": 16.933667
     },
     "c": {
-      "a": "2016-06-07",
-      "b": "koniec XIX wieku"
+      "a": "koniec XIX wieku",
+      "b": "16-06-07T09:27"
     },
     "d": ["pomnik", "stary rynek"],
     "e": "Pomnik Bamberki"
@@ -84,8 +84,8 @@
       "b": 16.934111
     },
     "c": {
-      "a": "2019-01-19",
-      "b": "ok. 1945 roku"
+      "a": "ok. 1945 roku",
+      "b": "19-01-19T12:48"
     },
     "d": ["stary rynek", "kamienica", "zniszczenia wojenne"],
     "e": "Kamienica pod daszkiem"
@@ -97,8 +97,8 @@
       "b": 16.936
     },
     "c": {
-      "a": "2016-06-07",
-      "b": "koniec XIX wieku"
+      "a": "koniec XIX wieku",
+      "b": "16-06-07T09:46"
     },
     "d": ["plac"],
     "e": "Plac Kolegiacki"
@@ -110,8 +110,8 @@
       "b": 16.93625
     },
     "c": {
-      "a": "2019-01-19",
-      "b": "koniec XIX wieku"
+      "a": "koniec XIX wieku",
+      "b": "19-01-19T13:01"
     },
     "d": ["ulica"],
     "e": "Ulica Za Bramką"
@@ -123,8 +123,8 @@
       "b": 16.936444
     },
     "c": {
-      "a": "2019-01-19",
-      "b": "ok. 1945 roku"
+      "a": "ok. 1945 roku",
+      "b": "19-01-19T13:06"
     },
     "d": ["obiekty sakralne", "zniszczenia wojenne"],
     "e": "Kościół Bernardynów"
@@ -136,8 +136,8 @@
       "b": 16.938917
     },
     "c": {
-      "a": "2019-01-19",
-      "b": "koniec XIX wieku"
+      "a": "koniec XIX wieku",
+      "b": "19-01-19T13:25"
     },
     "d": ["garbary", "ulica"],
     "e": "Ulica Piaskowa"
@@ -149,8 +149,8 @@
       "b": 16.9217285
     },
     "c": {
-      "a": "2021-10-31",
-      "b": "lata 50' XX wieku"
+      "a": "lata 50. XX wieku",
+      "b": "21-10-02T17:01"
     },
     "d": ["kamienica"],
     "e": "Dom Dziecka"
@@ -162,8 +162,8 @@
       "b": 16.9391537
     },
     "c": {
-      "a": "2021-10-31",
-      "b": "początek XX wieku"
+      "a": "początek XX wieku",
+      "b": "21-10-02T15:09"
     },
     "d": ["obiekty sakralne"],
     "e": "Kościół Wszystkich Świętych"
@@ -175,8 +175,8 @@
       "b": 16.93339
     },
     "c": {
-      "a": "2021-10-31",
-      "b": "koniec XIX wieku"
+      "a": "koniec XIX wieku",
+      "b": "21-10-02T14:50"
     },
     "d": ["pomnik", "stary rynek"],
     "e": "Figura św. Jana Nepomucena"
@@ -188,8 +188,8 @@
       "b": 16.9343024
     },
     "c": {
-      "a": "2021-10-31",
-      "b": "koniec XIX wieku"
+      "a": "koniec XIX wieku",
+      "b": "21-10-02T14:37"
     },
     "d": ["obiekty sakralne", "synagoga"],
     "e": "Nowa Synagoga"
@@ -201,8 +201,8 @@
       "b": 16.9354141
     },
     "c": {
-      "a": "2021-10-31",
-      "b": "ok. 1945 roku"
+      "a": "ok. 1945 roku",
+      "b": "21-10-02T14:41"
     },
     "d": ["obiekty sakralne", "synagoga", "zniszczenia wojenne"],
     "e": "Nowa Synagoga"
@@ -214,8 +214,8 @@
       "b": 16.9373119
     },
     "c": {
-      "a": "2021-10-31",
-      "b": "początek XX wieku"
+      "a": "początek XX wieku",
+      "b": "21-10-02T14:32"
     },
     "d": ["kamienica", "ulica"],
     "e": "Ulica Stawna"
@@ -227,8 +227,8 @@
       "b": 16.944313
     },
     "c": {
-      "a": "2021-10-31",
-      "b": "lata 70' XX wieku"
+      "a": "lata 70. XX wieku",
+      "b": "21-10-30T12:03"
     },
     "d": ["cytadela", "park", "winogrady"],
     "e": "Amfiteatr w Parku Cytadela"
@@ -240,8 +240,8 @@
       "b": 16.938278
     },
     "c": {
-      "a": "2021-10-31",
-      "b": "wiosna 1945 roku"
+      "a": "wiosna 1945 roku",
+      "b": "21-10-30T11:31"
     },
     "d": ["cytadela", "winogrady", "zniszczenia wojenne"],
     "e": "Zdobycie Cytadeli"
@@ -253,8 +253,8 @@
       "b": 16.936421
     },
     "c": {
-      "a": "2021-10-31",
-      "b": "początek XX wieku"
+      "a": "początek XX wieku",
+      "b": "21-10-30T11:43"
     },
     "d": ["cytadela", "park", "winogrady"],
     "e": "Brama Polna (Północna)"
@@ -266,8 +266,8 @@
       "b": 16.951749
     },
     "c": {
-      "a": "2022-04-23",
-      "b": "lata 30' XX wieku"
+      "a": "lata 30. XX wieku",
+      "b": "22-04-23T16:05"
     },
     "d": ["park", "szeląg"],
     "e": "Park Szelągowski"
@@ -279,8 +279,8 @@
       "b": 16.913759
     },
     "c": {
-      "a": "2022-04-23",
-      "b": "ok. 1945 roku"
+      "a": "ok. 1945 roku",
+      "b": "22-04-23T12:28"
     },
     "d": ["jeżyce", "kamienica"],
     "e": "Kamienica narożna Dąbrowskiego 1"
@@ -292,8 +292,8 @@
       "b": 16.952037
     },
     "c": {
-      "a": "2022-12-04",
-      "b": "koniec XIX wieku"
+      "a": "koniec XIX wieku",
+      "b": "22-12-04T13:27"
     },
     "d": ["śródka", "ulica"],
     "e": "Ulica Cybińska"
@@ -305,8 +305,8 @@
       "b": 16.953056
     },
     "c": {
-      "a": "2022-12-04",
-      "b": "koniec XIX wieku"
+      "a": "koniec XIX wieku",
+      "b": "22-12-04T13:32"
     },
     "d": ["śródka", "ulica"],
     "e": "Ulica Ostrówek"
@@ -318,8 +318,8 @@
       "b": 16.951452
     },
     "c": {
-      "a": "2016-06-07",
-      "b": "koniec XIX wieku"
+      "a": "koniec XIX wieku",
+      "b": "16-06-07T08:59"
     },
     "d": ["ostrów tumski", "most", "śródka"],
     "e": "Most Biskupa Jordana"
@@ -331,8 +331,8 @@
       "b": 16.93365
     },
     "c": {
-      "a": "2016-06-07",
-      "b": "początek XX wieku"
+      "a": "początek XX wieku",
+      "b": "16-06-07T09:26"
     },
     "d": ["ratusz", "stary rynek"],
     "e": "Łącznik ratusza"
@@ -344,8 +344,8 @@
       "b": 16.931404
     },
     "c": {
-      "a": "2022-04-23",
-      "b": "początek XX wieku"
+      "a": "początek XX wieku",
+      "b": "22-04-23T14:07"
     },
     "d": ["obiekty sakralne", "plac"],
     "e": "Plac Świętego Piotra"
@@ -357,8 +357,8 @@
       "b": 16.928615
     },
     "c": {
-      "a": "2022-12-17",
-      "b": "początek XX wieku"
+      "a": "początek XX wieku",
+      "b": "22-12-17T13:53"
     },
     "d": ["kamienica"],
     "e": "Kamienica Żelazko"
@@ -370,8 +370,8 @@
       "b": 16.924639
     },
     "c": {
-      "a": "2022-12-17",
-      "b": "lata 80' XX wieku"
+      "a": "lata 80. XX wieku",
+      "b": "22-12-17T13:20"
     },
     "d": ["stary browar"],
     "e": "Browar Huggerów"
@@ -383,8 +383,8 @@
       "b": 16.917428
     },
     "c": {
-      "a": "2022-04-23",
-      "b": "ok. 1945 roku"
+      "a": "ok. 1945 roku",
+      "b": "22-04-23T12:33"
     },
     "d": ["dzielnica cesarska", "opera", "zniszczenia wojenne"],
     "e": "Teatr Wielki"
